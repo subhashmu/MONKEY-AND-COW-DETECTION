@@ -1,12 +1,12 @@
-# MONKEY-AND-COW-DETECTION
+# MONKEY DETECTION
 
-## MONKEY AND COW DETECTION ON RAILWAY TRACKS MODEL
+## MONKEY DETECTION ON RAILWAY TRACKS MODEL
 
 ## AIM AND OBJECTIVES
 
 ## Aim
-To create MONKEY and COW Detection on Railway Tracks model which will detect
-MONKEY and COW crossing on Railway Tracks and then convey the message on the
+To create MONKEY Detection on Railway Tracks model which will detect
+MONKEY crossing on Railway Tracks and then convey the message on the
 viewfinder of camera in real time when MONKEY and COW are crossing the Tracks.
 
 ## Objectives
@@ -18,12 +18,12 @@ module on the device.
 • Using appropriate data sets for recognizing and interpreting data using machine
 learning.
 
-• To show on the optical viewfinder of the camera module when MONKEY and COW
+• To show on the optical viewfinder of the camera module when MONKEY 
 cross Railway Tracks.
 
 ## ABSTRACT
 
-• MONKEY and COW are detected when they are crossing the railway tracks and then
+• MONKEY are detected when they are crossing the railway tracks and then
 shown on the viewfinder of the camera.
 
 • Our Team in SparrowAi have completed this project on jetson nano which is a very small
@@ -45,18 +45,18 @@ size trained model and makes ML integration easier.
 
 ## INTRODUCTION
 
-• This project is based on MONKEY and COW detection model. We are going to
+• This project is based on MONKEY detection model. We are going to
 implement this project with Machine Learning and this project can be even run on jetson
 nano which our team at SparrowAi has already done.
 
 • This project can also be used to gather information about how many animals are
 crossing the Railway Tracks in a given time.
 
-• MONKEY and COW can be classified into whether they are standing close to railway
+• MONKEY can be classified into whether they are standing close to railway
 tracks or are crossing them based on the image annotation we give in roboflow.
 
-• MONKEY and COW detection becomes difficult sometimes on account of various
-conditions like rain, fog, night time making MONKEY and COW Detection harder for
+• MONKEY detection becomes difficult sometimes on account of various
+conditions like rain, fog, night time making MONKEY Detection harder for
 model to detect. However, training in Roboflow has allowed us to crop images and
 change the contrast of certain images to match the time of day, lighting for better
 recognition by the model.
@@ -65,7 +65,7 @@ recognition by the model.
 obtained good results.
 
 • Machine learning algorithms have proven to be very useful in pattern recognition and
-classification, and hence can be used for MONKEY and COW detection on Railway
+classification, and hence can be used for MONKEY detection on Railway
 Tracks as well.
 
 ## LITERATURE REVIEW
@@ -99,7 +99,7 @@ Assam, West Bengal and Jharkhand where the track passes through thick forests.
 Although drivers reduce the speed in animal sensitive areas, but it’s difficult if an animal
 suddenly comes in front of the track.
 
-• Our model detects MONKEY and COWs crossing Railway tracks and then can inform
+• Our model detects MONKEY crossing Railway tracks and then can inform
 the respective officials about it and then the officials can take actions against that can
 save the lives of unsuspecting animals.
 ## JETSON NANO COMPATIBILITY
@@ -133,19 +133,19 @@ and supports all Jetson modules.
 and its machine learning libraries will be using machine learning to identify an animal
 when it is crossing Railway tracks.
 
-4. Use data sets to interpret MONKEY and COWs and convey it when they are crossing
+4. Use data sets to interpret MONKEY and convey it when they are crossing
 tracks in the viewfinder.
 
 ## METHODOLOGY
-The MONKEY and COW detection model on Railway tracks is a program that focuses
-on implementing real time MONKEY and COW detection on Railway tracks.
+The MONKEY detection model on Railway tracks is a program that focuses
+on implementing real time MONKEY detection on Railway tracks.
 It is a prototype of a new product that comprises of the main module:
-MONKEY and COW detection and then showing on viewfinder when one is crossing
+MONKEY detection and then showing on viewfinder when one is crossing
 tracks according to data fed.
-MONKEY and COW Detection Module
+MONKEY Detection Module
 
 This Module is divided into two parts:
-1. MONKEY and COW Detection
+1. MONKEY  Detection
 
 • Ability to detect the location of an animal in any input image or frame. The output is the
 bounding box coordinates on the detected animal.
@@ -154,12 +154,12 @@ bounding box coordinates on the detected animal.
 complex task so then we just downloaded the images from google images and made our
 own data set.
 
-• This Data set identifies MONKEY and COW in a Bitmap graphic object and returns the
+• This Data set identifies MONKEY in a Bitmap graphic object and returns the
 bounding box image with annotation of name present.
 
 2. Classification Detection
 
-• Classification of the MONKEY and COW based on when they are crossing Railway
+• Classification of the MONKEY based on when they are crossing Railway
 tracks on the viewfinder.
 
 • Hence YOLOv5 which is a model library from roboflow for image classification and vision
@@ -356,6 +356,7 @@ sudo pip3 install mediapipe-0.8.5_cuda102-cp36-none-linux_aarch64.whl
 
 ## Demo
 
+https://youtu.be/NCEjeI3_Pxo
 
 
 ADVANTAGES
@@ -364,26 +365,26 @@ ADVANTAGES
 and around the world our model can be used to mitigate this problem by keeping a
 watchful eye on the Railway tracks.
 
-• MONKEY and COW detection system shows MONKEY and COW crossing Railway
+• MONKEY detection system shows MONKEY crossing Railway
 tracks in viewfinder of camera module with good accuracy.
 
 • Our model can be used in places where there is less workforce with respect to overall
-accident occurences and hence makes the process of recognizing MONKEY and COW
+accident occurences and hence makes the process of recognizing MONKEY 
 on tracks more efficient.
 
-• MONKEY and COW detection on Railway tracks model works completely automated
+• MONKEY detection on Railway tracks model works completely automated
 and no user input is required.
 
 • It can work around the clock and therefore becomes more cost efficient.
 APPLICATION
 
-• Detects MONKEY and COWs and then checks whether they are crossing the Railway
+• Detects MONKEY and then checks whether they are crossing the Railway
 tracks in each image frame or viewfinder using a camera module.
 
 • Can be used anywhere Railway tracks are laid and also places where illegal MONKEY
-and COW Railway tracks crossing is regularly observed.
+Railway tracks crossing is regularly observed.
 
-• Can be used as a reference for other ai models based on MONKEY and COW detection
+• Can be used as a reference for other ai models based on MONKEY detection
 on Railway tracks.
 
 ## FUTURE SCOPE
@@ -393,14 +394,13 @@ step towards automation.
 • Thus, for more accurate results it needs to be trained for more images, and for a greater
 number of epochs.
 
-• MONKEY and COW detection on Railway tracks model will become a necessity in the
+• MONKEY detection on Railway tracks model will become a necessity in the
 future due to the increase in number of trains running on railway tracks and hence our
 model will be of great help to tackle the situation in an efficient way. As urbanization and
-deforestation increase more animals will leave the jungle and hence more MONKEY and
-COW would roam free in cities and hence increase in chance of Railway tracks crossing.
+deforestation increase more animals will leave the jungle and hence more MONKEY would roam free in cities and hence increase in chance of Railway tracks crossing.
 
 ## CONCLUSION
-• In this project our model is trying to detect a MONKEY and COW and then showing it on
+• In this project our model is trying to detect a MONKEY and then showing it on
 viewfinder, live as to whether they are crossing a Railway track as we have specified in
 Roboflow.
 
